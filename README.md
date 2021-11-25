@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**UliyaSnisar/UliyaSnisar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yuliya.
+I love to apply the principles of responsive design and watch my web pages turn into mobile screens and still look amazing. It's so nice.
 
-Here are some ideas to get you started:
+📧You can contact me at this address: [Uliya19191@gmail.com]
+www.linkedin.com/in/юлия-снисарь
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/UliyaSnisar/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/UliyaSnisar/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/UliyaSnisar/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UliyaSnisar&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UliyaSnisar&show_icons=true&theme=cobalt)
